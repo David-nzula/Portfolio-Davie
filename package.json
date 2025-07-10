@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
+    "aos": "^2.3.4",
     "tailwindcss": "^4.1.11",
     "typed.js": "^2.1.0",
     "vue": "^3.5.17",
